@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a 15-year-old passionate about web development, currently immersing myself in the world of websites and diving deep into JavaScript. With a thirst for knowledge and a knack for problem-solving, I'm excited to explore the endless possibilities of coding and design. Join me on my journey as I strive to expand my skills and create meaningful digital experiences one line of code at a time
+Hi there! I'm a 15-year-old passionate about web development, currently immersing myself in the world of websites and diving deep into React. With a thirst for knowledge and a knack for problem-solving, I'm excited to explore the endless possibilities of coding and design. Join me on my journey as I strive to expand my skills and create meaningful digital experiences one line of code at a time
 
 
 ## 🌐 Socials:
